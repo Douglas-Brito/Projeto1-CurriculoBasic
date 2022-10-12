@@ -1,0 +1,111 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+    width: 900px;
+    margin: auto;
+}
+
+
+#title {
+    font-family: 'arial norrow bold';
+    font-size: 30px;
+    font-style: normal
+}
+
+.nome {
+    padding: 5px;
+    margin-left: 1px;
+    border-bottom: 5px solid rgba(138, 152, 196, 0.368);
+}
+
+.subtitle {
+    font-size: 15px;
+    font-family: 'arial norrow bold';
+    border-bottom: #555;
+}
+
+.apresentação {
+    background: rgb(193, 193, 194);
+    font-size: 15px;
+    padding: 30px;
+    border-top: 5px solid rgba(138, 152, 196, 0.368);
+    border-left: 5px solid  rgba(138, 152, 196, 0.368);
+    box-shadow: 3px solid  rgba(138, 152, 196, 0.368);
+    border-radius:  8px solid rgba(138, 152, 196, 0.368);
+    margin: 3%
+}
+
+.contato_titulo {
+padding: 0px;
+list-style-type: none;
+}
+
+.contato_titulo li a {
+    text-decoration: none;
+    color: black;
+}
+
+.post_title {
+    font-family: 'arial norrow bold';
+    padding: 30px;
+    font-size: 15px;
+    font-weight: normal;
+    background-color: rgb(193, 193, 194); 
+    border-top: 5px solid rgba(138, 152, 196, 0.368);
+    border-left: 5px solid rgba(138, 152, 196, 0.368);
+    border-radius: 5px solid rgb(200, 236, 242)   ;
+    margin: 3%
+        
+}
+ 
+.intro {
+    background: rgb(166, 187, 207);
+    border-width: 5px solid rgb(115, 119, 138);
+    border-style: 4px solid ;
+    border-radius: solid 8px #555;
+    margin: 4%
+}
+
+.cor_teste {
+    background: rgb(216, 230, 243);
+    padding: 10px;
+    border: 3px solid rgb(0, 0, 0);
+    margin: 10px;
+    border-radius: 1%;
+}
+
+.post_title {
+font-size: 16px
+font-style: italic
+margin: 0
+margin-bottom: 15px;
+mar
+}
+
+.post {
+    background: rgb(182, 182, 182);
+    padding: 10px;
+    border: 3px solid rgb(0, 0, 0);
+    margin: 10px;
+    border-radius: 8%;
+
+}
+
+    .post_content {
+        margin: 0px;
+        margin-bottom: 15px;
+
+    }
+    .rede_e_contato {
+        font-style: arial
+        font-size: 19px;
+        background: rgb(155, 159, 208);
+        padding: 10px;
+        border: 3px solid rgb(243, 245, 250);
+        margin: 10px;
+        border-radius: 8%;
+        
+    }
+
+    
+}
